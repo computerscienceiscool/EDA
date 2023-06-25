@@ -19,5 +19,6 @@ Our dataset contains information about telecom customers, including their monthl
 
 5. **T-test for Statistical Significance**: To quantify the significance of the observed differences, we will perform a T-test between the monthly charges of churned and non-churned customers. This test will assess whether the differences we observed are statistically significant.
 
+ 
 By following these steps, we will gain insights into the relationship between monthly charge and churn in the telecom dataset. The T-test will allow us to determine if the observed differences in monthly charges between churned and non-churned customers are statistically significant.
  
